@@ -1,0 +1,1 @@
+GameHub is a Python evaluation project that showcases a collection of classic games, including Rock Paper Scissors, Tic Tac Toe, Snake, and Flappy Bird. The project runs on the output window, providing a simple and accessible platform for users to enjoy a variety of games.
